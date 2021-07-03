@@ -1,8 +1,8 @@
-PTFS-ATC-helping-software
+#PTFS-ATC-helping-software
 
-HOW TO USE:
-Navigate with the arrow keys, to add a plane hit enter while "NEW PLANE" is selected
-to delete a plane hit "DELETE/CANCEL" while a plane is selected.
+#HOW TO USE:
+#Navigate with the arrow keys, to add a plane hit enter while "NEW PLANE" is selected
+#to delete a plane hit "DELETE/CANCEL" while a plane is selected.
 
 To edit the intent just hit enter an an already created plane.
 You need the Visual studio 2019 redistributable to run the file
